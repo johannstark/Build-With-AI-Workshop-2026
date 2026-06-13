@@ -51,4 +51,4 @@ La base de código debe estar escrita en Python, utilizando el framework `adk.de
 
 1. Primero, muestra una representación limpia en árbol ASCII de la estructura del proyecto.
 2. Proporciona el código completo para cada archivo, asegurándote de que sea autocontenido y esté listo para ejecutar.
-3. Incluye un bloque `README.md` conciso con los comandos de terminal exactos necesarios para inicializar el proyecto localmente usando `uv` y desplegarlo usando `gcloud run deploy`.
+3. Incluye un bloque `README.md` conciso con los comandos de terminal exactos necesarios para inicializar el proyecto localmente usando `uv`.

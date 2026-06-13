@@ -37,4 +37,3 @@ Implementa el servidor en Python utilizando la librería oficial (preferiblement
 2. **Código:** El código completo y listo para ejecutarse de `server.py`, `pyproject.toml` y el `Dockerfile`.
 3. **README:** Instrucciones precisas con:
    * El comando exacto para levantar y probar el servidor usando `npx @modelcontextprotocol/inspector`.
-   * El comando de despliegue usando `gcloud run deploy`.
